@@ -1,0 +1,2 @@
+# ktunOtomataTeorisiMealey
+Mealey Machine
